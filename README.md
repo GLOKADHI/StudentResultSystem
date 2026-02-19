@@ -16,6 +16,6 @@ III. Features
 - Subject-wise highest marks calculation
 
 IV. Execution Screenshots
-1.Database & Table Creation
-2.Student & Subject Average Queries
-3.Top Performer & Highest Marks
+- Database & Table Creation
+- Student & Subject Average Queries
+- Top Performer & Highest Marks
